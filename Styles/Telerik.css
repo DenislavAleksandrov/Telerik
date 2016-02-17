@@ -5,7 +5,7 @@
 }
 
 body{
-    background:url(http://localhost:55543/Telerik/Images/body-background.png);
+    background:url(/Images/body-background.png);
     width:100%;
 }
 
@@ -41,7 +41,7 @@ header #logo{
 }
 
 header input{
-    background:url(http://localhost:55543/Telerik/Images/search-image.png)no-repeat 98%;
+    background:url(/Images/search-image.png)no-repeat 98%;
     border:none;
     border:1px solid #EFEFEF;
     float:right;
@@ -95,7 +95,7 @@ header input{
 
 #menu ul li:hover  {
     border-top:0;
-    background:url(http://localhost:55543/Telerik/Images/home-border.png)no-repeat top;
+    background:url(/Images/home-border.png)no-repeat top;
     background-position:0px 0px;
     background-size:100% 7px;
     padding-top:15px;
@@ -219,7 +219,7 @@ main section .comments{
 }
 
 main section img{
-    background-image:url(http://localhost:55543/Telerik/Images/article-image.png);
+    background-image:url(/Images/article-image.png);
     border:5px solid #ffffff;
     width:97%;
 }
@@ -253,7 +253,7 @@ section .post{
 }
 
 section button {
-    background:url(http://localhost:55543/Telerik/Images/button-background.png);
+    background:url(/Images/button-background.png);
     border-radius:15px;
     border:none;
     border:1px solid #E7E7E7;
@@ -292,7 +292,7 @@ aside .aside-navigation ul li a{
 }
 
 aside .aside-navigation ul li a:before{
-    content:url(http://localhost:55543/Telerik/Images/aside-navigation.png);
+    content:url(/Images/aside-navigation.png);
     padding-right:10px;
 }
 
@@ -469,7 +469,7 @@ h3{
     }
 
      #menu ul li:hover {
-        background: url(http://localhost:55543/Telerik/Images/hover-navigation.png)no-repeat top;
+        background: url(/Images/hover-navigation.png)no-repeat top;
         padding-top: 3px;
     }
 
